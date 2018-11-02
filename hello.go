@@ -1,4 +1,4 @@
-package main
+sdasdpackage main
 
 import "fmt"
 
